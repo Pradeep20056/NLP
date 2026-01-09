@@ -1,0 +1,24 @@
+KEY RESULTS FROM TEXT ANALYSIS
+
+English Vocabulary: 2093 unique words
+Tamil Vocabulary: 3996 unique words
+
+English Avg Word Length: 4.88
+Tamil Avg Word Length: 7.78
+
+English TTR: 0.1720
+Tamil TTR: 0.3817
+
+=== TOP 5 ENGLISH WORDS ===
+  nora: 693
+  helmer: 333
+  mr: 254
+  lind: 225
+  krogstad: 159
+
+=== TOP 5 TAMIL WORDS ===
+  லிண்டே: 148
+  நீங்கள்: 135
+  என்: 126
+  எனக்கு: 108
+  நோரா: 105
