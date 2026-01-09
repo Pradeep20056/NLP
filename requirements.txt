@@ -1,0 +1,6 @@
+nltk
+pandas
+matplotlib
+scikit-learn
+indic-nlp-library
+regex
